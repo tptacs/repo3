@@ -10,7 +10,7 @@ int main()
 	
 	printf("la materia es %s y el anio es %i \n", name, anio);
    
-   printf("Hello, World!");
+   printf("Hello, World!\n");
    printf("Bye World");
    return 0;
 }
