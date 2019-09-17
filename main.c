@@ -8,7 +8,7 @@ int main()
 	char name[5];
 	strcpy(name, "tacs");
 	
-	printf("la materia es %c y el anio es %i \n", name, anio);
+	printf("la materia es %s y el anio es %i \n", name, anio);
    
    printf("Hello, World!");
    printf("Bye World");
