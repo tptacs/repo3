@@ -1,7 +1,10 @@
 #include <stdio.h>
 int main()
 {
-   // printf() displays the string inside quotation
+	int anio = 2019;
+	char* name = tacs;
+	
+   
    printf("Hello, World!");
    printf("Bye World");
    return 0;
